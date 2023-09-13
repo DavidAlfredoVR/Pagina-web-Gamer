@@ -1,0 +1,28 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+.col1{
+    background-color: aqua;
+    padding: auto;
+    margin: 0 50px;
+}
+.margen{
+    margin: 5%;
+    padding: auto;
+    text-align: right;
+}
+.ptp{
+    margin: 5%;
+    justify-content: center;
+}
+body{
+    background-color: grey;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+div{
+    width: 100%;
+    padding: 10px 10px;
+    
+}
